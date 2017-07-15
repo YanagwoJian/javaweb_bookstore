@@ -1,0 +1,49 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.pwd {
+	height:450px;
+	width:500px;
+	margin: 0px auto;
+}
+
+h1 {
+	color: #FF8500;
+	margin-top: 30px;
+}
+
+.pwd div {
+	height: 50px;
+	width: 500px;
+	margin-top: 20px;
+	font-size: 22px;
+	color: #FE679A;
+}
+
+input {
+	width: 200px;
+	font-size:19px;
+}
+
+#save {
+	color:#FFFFFF;
+	font-size: 20px;
+	background-color: #FF4000;
+	margin: 10px 160px;
+    height: 35px;
+    width: 80px;
+    border-radius: 3px;
+    cursor: pointer;
+    border-color: #FF4000;
+}
+
+
+
+
+.success, .error {
+	width: 450px;
+	height: 500px;
+	margin: 0 auto;
+}

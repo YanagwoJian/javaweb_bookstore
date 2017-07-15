@@ -1,0 +1,59 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.info {
+	height: 420px;
+	width: 550px;
+	margin: 0 auto;
+}
+
+h1 {
+	color: #FF8500;
+	margin-top: 30px;
+}
+
+.info div {
+	height: 50px;
+	width: 500px;
+	margin-top: 20px;
+	font-size: 22px;
+	color: #FE679A;
+}
+
+font {
+	color: #AAAAAA;
+	font-size: 18px;
+}
+
+input {
+	width: 200px;
+	font-size:19px;
+}
+
+#man,#woman {
+	width:20px;		
+}
+
+#save {
+	color:#FFFFFF;
+	font-size: 20px;
+	background-color: #FF4000;
+	margin: 10px 120px;
+    height: 35px;
+    width: 80px;
+    border-radius: 3px;
+    cursor: pointer;
+    border-color: #FF4000;
+}
+
+
+
+
+
+.success, .error {
+	height: 500px;
+	width: 450px;
+	margin: 0 auto;
+}

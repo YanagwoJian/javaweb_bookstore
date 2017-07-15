@@ -1,0 +1,65 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+	color: red;
+}
+
+a {
+	color:#132235;
+}
+
+body {
+	background-color: #A287C8;
+}
+
+.content {
+	height: 330px;
+	width: 900px;
+	margin: 0 auto;
+}
+
+.user {
+	height: 280px;
+	width: 700px;
+	margin: 0 auto;
+	padding: 30px;
+}
+
+tr, th, td {
+	width: 200px;
+	text-align: center;
+	font-size: 20px;
+	border: 1px solid;
+}
+
+table {
+	border: 1px solid;
+}
+
+input {
+	font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #60B1DD;
+    border-color: #60B1DD;
+    width: 40px;
+}
+
+#pageNow {
+	width:22px;
+	text-align:center;
+}
+
+.page {
+	margin-top: 10px;
+}

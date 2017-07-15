@@ -1,0 +1,43 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-color: #A287C8;
+}
+
+.adminlogin {
+	width: 300px;
+	height:250px;
+	margin: 100px auto;
+}
+
+h1 {
+	text-align: center;
+	color: #FFFFFF;
+}
+
+div {
+	margin-top: 20px;
+}
+
+h2 {
+	color: #FFF115;
+	display: inline;
+}
+
+input {
+	font-size: 20px;
+	width:180px;
+}
+
+#login {
+	width: 80px;
+	background-color: #60B1DD;
+	color: #FFFFFF;
+	border-radius: 6px;
+	border-color: #60B1DD;
+	cursor: pointer;
+	margin-left: 30px;
+}

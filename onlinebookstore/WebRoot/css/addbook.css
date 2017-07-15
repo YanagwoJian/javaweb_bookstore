@@ -1,0 +1,43 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-color: #A287C8;
+}
+
+.content {
+	height: 200px;
+	width: 900px;
+	margin: 0 auto;
+}
+
+.add {
+	height: 98%;
+	width: 400px;
+	margin: 20px auto;
+}
+
+div {
+	margin-top: 5px;
+}
+
+h3 {
+	display: inline;	
+}
+
+input {
+	font-size: 16px;
+	width: 150px;	
+}
+
+#submit {
+	font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #60B1DD;
+    border-color: #60B1DD;
+    width: 40px;
+    margin-top: 5px;
+}

@@ -1,0 +1,53 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+	color: red;
+}
+
+a {
+	color:#5A98DE;
+}
+
+.buybook {
+	height: 500px;
+	width: 700px;
+	margin: 0 auto;
+}
+
+table {
+	margin-top: 100px;	
+}
+
+tr, td, th {
+	padding-top: 15px;
+	width: 120px;
+	font-size: 22px;
+	text-align: center;
+}
+
+.page {
+	height: 30px;
+	width: 250px;
+	margin: 15px 40px;
+}
+
+input {
+	font-size: 16px;
+	border-radius: 3px;
+	width: 24px;
+	cursor: pointer;
+}
+
+#car {
+	width:100px;
+}

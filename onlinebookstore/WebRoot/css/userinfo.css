@@ -1,0 +1,28 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+
+.info {
+	height: 400px;
+	width: 500px;
+	margin:0 auto;
+}
+
+h1 {
+	margin-top: 30px;
+	color:#FF8500;
+}
+
+.info div {
+	height: 50px;
+	width: 300px;
+	margin-top: 20px;
+	font-size: 22px;
+	color: #FE679A;
+}
+
+.info div h3 {
+	color: #020202;
+	display: inline;
+}

@@ -1,0 +1,24 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.footer {
+	height: 150px;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+table {
+	margin: 0 auto;	
+}
+
+th, tr, td {
+	width:130px;
+	height:28px;
+	text-align: center;
+}
+
+td {
+	font-size: 14px;
+}
